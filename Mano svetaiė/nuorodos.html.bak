@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+
+<html lang="en">
+<head>
+<title>My heading</title>
+
+	<style>
+    	body {
+			color: black;
+			background-color: Azure;
+        }
+		a {
+			background-color: AliceBlue;
+			color: black;
+			border: 2px solid none;
+			padding: 10px 20px;
+			text-align: center;
+			text-decoration: none;
+			display: inline-block;
+			}
+	</style>
+</head>
+<body>
+
+	<header>
+		<a href=".."> Back to Java34</a>
+		<h1><a href="index.html"><img src="images/java.jpg" alt="Panorama" width="500" height="333"></a></h1>
+	</header>
+	
+	<nav>
+		<p>
+		<a href="index.html">Home</a>
+		<a href="foto.html">Foto</a>
+		<a href="nuorodos.html">Tekstas</a>
+		<a href="links.html">Links</a>
+		</p>
+	</nav>
+	<main>
+		<article>
+			<h2 id="A1"> Pirmas skyrius </h2>
+				<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi molestie commodo augue, mattis lobortis velit tempor ac. Sed finibus, lacus dapibus dapibus semper, elit odio scelerisque lorem, eu auctor orci felis vel quam. Suspendisse potenti. Curabitur elementum, erat et vehicula porta, augue mauris rutrum ligula, non tincidunt nunc odio a elit. Mauris porta porttitor consequat. Phasellus laoreet tempor risus, eu blandit dui pulvinar ut. Praesent augue orci, suscipit id mattis eu, venenatis in sem.
+			Phasellus tincidunt consequat erat in aliquam. Praesent quis posuere libero. In hac habitasse platea dictumst. Nullam molestie scelerisque aliquet. Sed porta sodales justo sed consectetur. Nunc a lacus tristique, mattis dui id, consectetur sapien. Sed viverra leo eros, non fringilla nisi vehicula sit amet. Nullam ornare tristique eleifend. Etiam felis purus, viverra commodo ullamcorper vel, venenatis quis magna. Nulla placerat libero sagittis quam consequat, non molestie lorem hendrerit. Aenean at ante et leo sodales vehicula in non justo. Quisque et erat ut est sodales luctus a id ex. Phasellus vitae dui ipsum. Donec nec sollicitudin elit, vitae tincidunt tortor. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.
+			Suspendisse commodo, elit quis aliquet pharetra, augue turpis rhoncus nisi, sit amet congue velit lorem ut nulla. Aliquam rutrum tempus eleifend. Donec ullamcorper elementum ligula vel rutrum. Suspendisse lacinia velit eu velit porta, quis ultrices ante accumsan. Ut tincidunt ornare mauris nec semper. Integer in ultrices est, quis tristique nisl. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Nulla gravida velit eu nulla laoreet imperdiet. Duis dignissim odio in posuere dapibus. Quisque hendrerit vitae ipsum nec placerat. Nulla et massa id tortor accumsan vehicula sed non purus. Nulla sapien odio, condimentum in mauris eu, euismod elementum nisi. Maecenas maximus quam in semper placerat. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Mauris non massa nec nisi gravida placerat. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi molestie commodo augue, mattis lobortis velit tempor ac. Sed finibus, lacus dapibus dapibus semper, elit odio scelerisque lorem, eu auctor orci felis vel quam. Suspendisse potenti. Curabitur elementum, erat et vehicula porta, augue mauris rutrum ligula, non tincidunt nunc odio a elit. Mauris porta porttitor consequat. Phasellus laoreet tempor risus, eu blandit dui pulvinar ut. Praesent augue orci, suscipit id mattis eu, venenatis in sem.
+			Phasellus tincidunt consequat erat in aliquam. Praesent quis posuere libero. In hac habitasse platea dictumst. Nullam molestie scelerisque aliquet. Sed porta sodales justo sed consectetur. Nunc a lacus tristique, mattis dui id, consectetur sapien. Sed viverra leo eros, non fringilla nisi vehicula sit amet. Nullam ornare tristique eleifend. Etiam felis purus, viverra commodo ullamcorper vel, venenatis quis magna. Nulla placerat libero sagittis quam consequat, non molestie lorem hendrerit. Aenean at ante et leo sodales vehicula in non justo. Quisque et erat ut est sodales luctus a id ex. Phasellus vitae dui ipsum. Donec nec sollicitudin elit, vitae tincidunt tortor. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.
+			Suspendisse commodo, elit quis aliquet pharetra, augue turpis rhoncus nisi, sit amet congue velit lorem ut nulla. Aliquam rutrum tempus eleifend. Donec ullamcorper elementum ligula vel rutrum. Suspendisse lacinia velit eu velit porta, quis ultrices ante accumsan. Ut tincidunt ornare mauris nec semper. Integer in ultrices est, quis tristique nisl. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Nulla gravida velit eu nulla laoreet imperdiet. Duis dignissim odio in posuere dapibus. Quisque hendrerit vitae ipsum nec placerat. Nulla et massa id tortor accumsan vehicula sed non purus. Nulla sapien odio, condimentum in mauris eu, euismod elementum nisi. Maecenas maximus quam in semper placerat. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Mauris non massa nec nisi gravida placerat.</p>
+				<a href="#"> To begining
+				</a>
+		</article>
+		<article>
+			<h2 id="A2"> Antras skyrius </h2>
+				<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean ac erat consectetur, commodo ex et, maximus diam. In sollicitudin at nisl in vulputate. Aliquam erat volutpat. In id porta augue, eu dignissim dolor. Suspendisse vitae arcu viverra, scelerisque risus blandit, facilisis arcu. Sed sit amet congue ante, at hendrerit dui. Nulla facilisi. Etiam vitae euismod mauris. Phasellus varius turpis ac sapien rhoncus ornare. Pellentesque ut facilisis eros. Nunc laoreet leo eget orci consequat vehicula. Suspendisse sit amet dolor fringilla, maximus dui quis, porta libero. Nulla vehicula vitae purus sed finibus. Fusce porttitor nisl augue, aliquam ultricies lectus interdum ut. Aenean sed sagittis felis.
+			Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Integer efficitur elementum sapien ut imperdiet. Donec nec neque eu nisl imperdiet malesuada. Maecenas at rutrum ex. Phasellus ut tortor mollis, elementum massa vitae, bibendum lacus. Phasellus hendrerit, diam ornare vulputate ornare, massa ipsum ultricies odio, at semper ante velit sit amet tortor. Curabitur ultricies nibh sed varius vulputate. In et tortor eget lacus rutrum congue. Vivamus maximus enim et ultrices egestas. Nullam scelerisque vel metus a iaculis. Ut ultricies risus eget tempus malesuada.
+			Suspendisse risus urna, dignissim id ornare sed, varius nec quam. Duis velit ante, iaculis vel ex quis, pharetra interdum ante. Nunc sit amet mauris sit amet augue posuere tincidunt. Duis a ante nec sapien rutrum sodales vitae id velit. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque quis odio non neque condimentum lobortis. Interdum et malesuada fames ac ante ipsum primis in faucibus. Aliquam vulputate in ex sit amet aliquam. Donec sit amet metus pellentesque ligula condimentum blandit tincidunt vitae dolor. Suspendisse ornare lacus ut ipsum aliquet, ut euismod purus eleifend. Cras aliquet nisi eget porttitor vehicula. Sed vel laoreet justo. Mauris in erat nec augue rhoncus finibus id ut arcu. Curabitur consectetur neque vel elementum dignissim. Ut accumsan egestas nisi viverra fringilla. Aenean eu tincidunt nibh. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi molestie commodo augue, mattis lobortis velit tempor ac. Sed finibus, lacus dapibus dapibus semper, elit odio scelerisque lorem, eu auctor orci felis vel quam. Suspendisse potenti. Curabitur elementum, erat et vehicula porta, augue mauris rutrum ligula, non tincidunt nunc odio a elit. Mauris porta porttitor consequat. Phasellus laoreet tempor risus, eu blandit dui pulvinar ut. Praesent augue orci, suscipit id mattis eu, venenatis in sem.
+			Phasellus tincidunt consequat erat in aliquam. Praesent quis posuere libero. In hac habitasse platea dictumst. Nullam molestie scelerisque aliquet. Sed porta sodales justo sed consectetur. Nunc a lacus tristique, mattis dui id, consectetur sapien. Sed viverra leo eros, non fringilla nisi vehicula sit amet. Nullam ornare tristique eleifend. Etiam felis purus, viverra commodo ullamcorper vel, venenatis quis magna. Nulla placerat libero sagittis quam consequat, non molestie lorem hendrerit. Aenean at ante et leo sodales vehicula in non justo. Quisque et erat ut est sodales luctus a id ex. Phasellus vitae dui ipsum. Donec nec sollicitudin elit, vitae tincidunt tortor. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.
+			Suspendisse commodo, elit quis aliquet pharetra, augue turpis rhoncus nisi, sit amet congue velit lorem ut nulla. Aliquam rutrum tempus eleifend. Donec ullamcorper elementum ligula vel rutrum. Suspendisse lacinia velit eu velit porta, quis ultrices ante accumsan. Ut tincidunt ornare mauris nec semper. Integer in ultrices est, quis tristique nisl. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Nulla gravida velit eu nulla laoreet imperdiet. Duis dignissim odio in posuere dapibus. Quisque hendrerit vitae ipsum nec placerat. Nulla et massa id tortor accumsan vehicula sed non purus. Nulla sapien odio, condimentum in mauris eu, euismod elementum nisi. Maecenas maximus quam in semper placerat. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Mauris non massa nec nisi gravida placerat.</p>
+				<a href="#"> To begining
+				</a>
+		</article>
+		<article>
+			<h2 ID="A3"> Trečias skyrius </h2>
+				<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent eu consequat eros, malesuada pellentesque elit. Aenean commodo, lectus maximus condimentum egestas, velit augue rhoncus ante, id fermentum libero libero pharetra purus. Fusce tempus eu elit at laoreet. Donec ultrices ante non nisi tincidunt finibus. Proin elit arcu, varius nec vestibulum eu, viverra ut augue. Pellentesque tincidunt fermentum dictum. Donec convallis tellus quis mollis tincidunt. Cras efficitur lectus ligula, sed pharetra arcu bibendum a. Donec aliquam vehicula tempus. Ut mauris risus, sollicitudin a lobortis id, auctor nec lectus. Nunc pellentesque in urna ac interdum. Integer non faucibus turpis, quis tempus urna. Nam finibus lorem eu nulla dictum, a malesuada felis interdum.
+			Donec pretium risus vitae est bibendum semper. Proin vulputate porta ligula, quis cursus tortor fermentum non. Morbi sed diam varius, suscipit justo id, dapibus dui. Nullam eget egestas dolor, et imperdiet nibh. Duis feugiat urna quis eros euismod dignissim. Maecenas at ullamcorper leo. Maecenas vehicula urna ante, eget sodales velit rutrum nec. Nunc ut efficitur odio. Sed condimentum ac neque vitae dignissim.
+			Nulla sit amet tincidunt orci. Vestibulum sit amet vestibulum diam, malesuada aliquam enim. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Aliquam imperdiet purus nisi, luctus ullamcorper orci tristique in. Praesent a lectus sit amet tellus ullamcorper volutpat. Nunc nec feugiat elit, non pretium lacus. Proin id est nec ipsum dictum dapibus a sit amet metus. Etiam at scelerisque arcu, in porta urna. Donec viverra semper massa, non feugiat orci consectetur eu. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi molestie commodo augue, mattis lobortis velit tempor ac. Sed finibus, lacus dapibus dapibus semper, elit odio scelerisque lorem, eu auctor orci felis vel quam. Suspendisse potenti. Curabitur elementum, erat et vehicula porta, augue mauris rutrum ligula, non tincidunt nunc odio a elit. Mauris porta porttitor consequat. Phasellus laoreet tempor risus, eu blandit dui pulvinar ut. Praesent augue orci, suscipit id mattis eu, venenatis in sem.
+			Phasellus tincidunt consequat erat in aliquam. Praesent quis posuere libero. In hac habitasse platea dictumst. Nullam molestie scelerisque aliquet. Sed porta sodales justo sed consectetur. Nunc a lacus tristique, mattis dui id, consectetur sapien. Sed viverra leo eros, non fringilla nisi vehicula sit amet. Nullam ornare tristique eleifend. Etiam felis purus, viverra commodo ullamcorper vel, venenatis quis magna. Nulla placerat libero sagittis quam consequat, non molestie lorem hendrerit. Aenean at ante et leo sodales vehicula in non justo. Quisque et erat ut est sodales luctus a id ex. Phasellus vitae dui ipsum. Donec nec sollicitudin elit, vitae tincidunt tortor. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.
+			Suspendisse commodo, elit quis aliquet pharetra, augue turpis rhoncus nisi, sit amet congue velit lorem ut nulla. Aliquam rutrum tempus eleifend. Donec ullamcorper elementum ligula vel rutrum. Suspendisse lacinia velit eu velit porta, quis ultrices ante accumsan. Ut tincidunt ornare mauris nec semper. Integer in ultrices est, quis tristique nisl. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Nulla gravida velit eu nulla laoreet imperdiet. Duis dignissim odio in posuere dapibus. Quisque hendrerit vitae ipsum nec placerat. Nulla et massa id tortor accumsan vehicula sed non purus. Nulla sapien odio, condimentum in mauris eu, euismod elementum nisi. Maecenas maximus quam in semper placerat. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Mauris non massa nec nisi gravida placerat.</p>
+				<a href="#"> To begining
+				</a>
+		</article>
+	</main>
+		<footer>
+		<p>&#9989;&#9989;&#9989;</p>
+		<p>Mano puslapis &copy; 2022. Visos teisės saugomos.</p>
+		</footer>
+</body>
+</html>

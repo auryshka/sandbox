@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+
+<html lang="en">
+<head>
+<title>My heading</title>
+
+	<style>
+    	body {
+			color: black;
+			background-color: Azure;
+        }
+		a {
+			background-color: AliceBlue;
+			color: black;
+			border: 2px solid none;
+			padding: 10px 20px;
+			text-align: center;
+			text-decoration: none;
+			display: inline-block;
+			}
+	</style>
+</head>
+<body>
+
+	<header>
+		<a href=".."> Back to Java34</a>
+		<h1><a href="index.html"><img src="images/java.jpg" alt="Panorama" width="500" height="333"></a></h1>
+	</header>
+	
+	<nav>
+		<p>
+		<a href="index.html">Home</a>
+		<a href="foto.html">Foto</a>
+		<a href="nuorodos.html">Tekstas</a>
+		<a href="links.html">Links</a>
+		</p>
+	</nav>
+	<main>
+		<article>
+			<h2>Paprastos</h2>
+			<span style='font-size:25px;'>&#9995;</span>
+			<p><a href="https://www.wikipedia.org/" target="_blank">&sum; WIKI &prod;</a></p>
+			<p><a href="https://www.google.com/" target="_blank">&sum; Google &prod;</a></p>
+		</article>
+		<article>
+			<h2>Programavimui</h2>
+			<span style='font-size:25px;'>&#9996;</span>
+			<p><a href="https://pastebin.com/"target="_blank">&prod; Pastebin &sum;</a></p>
+			<p><a href="https://www.w3schools.com/" target="_blank">&prod; 3W &sum;</a></p>
+			<p><a href="https://validator.w3.org/nu/" target="_blank">&prod; Tikrinti &sum;</a></p>
+			<p><a href="https://www.lipsum.com/" target="_blank">&prod; Tekstams &sum;</a></p>
+			<p><a href="https://github.com/" target="_blank">&prod; GitHub &sum;</a></p>
+		</article>
+		<article>	
+	</main>
+	
+	<footer>
+		<p>&#9989;&#9989;&#9989;</p>
+		<p>Mano puslapis &copy; 2022. Visos teisės saugomos.</p>
+	</footer>
+</body>
+</html>
